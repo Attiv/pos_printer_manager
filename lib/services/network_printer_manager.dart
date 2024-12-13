@@ -4,6 +4,7 @@ import 'package:pos_printer_manager/pos_printer_manager.dart';
 import 'package:pos_printer_manager/services/extension.dart';
 import 'network_service.dart';
 import 'printer_manager.dart';
+import 'package:esc_pos_utils_plus/esc_pos_utils_plus.dart';
 
 /// Network Printer
 class NetworkPrinterManager extends PrinterManager {

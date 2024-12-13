@@ -3,6 +3,7 @@ import 'package:pos_printer_manager/pos_printer_manager.dart';
 import 'package:webcontent_converter/webcontent_converter.dart';
 import 'demo.dart';
 import 'service.dart';
+import 'package:esc_pos_utils_plus/esc_pos_utils_plus.dart';
 
 class BluetoothPrinterScreen extends StatefulWidget {
   @override
